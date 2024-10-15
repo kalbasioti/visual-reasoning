@@ -1,0 +1,7 @@
+logs/
+wandb/
+checkpoints/
+__pycache__/
+datasets/attr_gt_labels.npy
+datasets/counting_gt_labels.npy
+datasets/obj_gt_labels.npy
